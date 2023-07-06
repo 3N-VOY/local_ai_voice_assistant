@@ -28,10 +28,11 @@ The assistant will continuously listen for voice commands and provide responses.
 ## Project Structure
 The main code file for the AI voice assistant is main.py. It includes the following components:
 
-Speech-to-text transcription: The transcribe_audio_to_text function transcribes audio files to text using the Google Speech Recognition API.
-Text generation: The generate_response function generates text-based responses using a language model.
-Text-to-speech synthesis: The speak_text function converts generated text responses into speech.
-License
+* Speech-to-text transcription: The transcribe_audio_to_text function transcribes audio files to text using the Google Speech Recognition API.
+* Text generation: The generate_response function generates text-based responses using a language model.
+* Text-to-speech synthesis: The speak_text function converts generated text responses into speech.
+
+## License
 This project is licensed under the MIT License.
 
 ## Contributing

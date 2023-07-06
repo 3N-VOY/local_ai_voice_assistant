@@ -1,6 +1,4 @@
-# local_ai_voice_assistant
-This project implements a Local AI  voice assistant that utilizes speech recognition and text generation techniques. It enables users to interact with the assistant through voice commands. The assistant generates responses based on the provided prompts using a local large language model.
-# AI Voice Assistant
+## Local AI Voice Assistant
 
 The AI Voice Assistant is a Python-based project that enables voice-controlled interactions with an AI assistant. The assistant can transcribe audio files to text, generate text-based responses, and convert the generated text into speech.
 
